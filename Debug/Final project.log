@@ -1,0 +1,4 @@
+﻿  zapocniVjesalaFunctions.c
+C:\Users\Korisnik\source\repos\Final project\zapocniVjesalaFunctions.c(65,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Korisnik\source\repos\Final project\zapocniVjesalaFunctions.c(172,19): warning C4098: 'zapocniVjesala': 'void' function returning a value
+  Final project.vcxproj -> C:\Users\Korisnik\source\repos\Final project\Debug\Final project.exe
